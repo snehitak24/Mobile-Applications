@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Multi-Note Pad</string>
+    <string name="information">information</string>
+    <string name="addnode">add</string>
+    <string name="encoding">UTF-8</string>
+    <string name="file_name">Notes.json</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="write_notes_here">Write notes here....</string>
+    <string name="date">date</string>
+    <string name="notes">notes</string>
+    <string name="title">title</string>
+    <string name="textview">TextView</string>
+</resources>
