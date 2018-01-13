@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryDark">@android:color/holo_purple</item>
+        <item name="android:homeAsUpIndicator">@drawable/home</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
